@@ -1,0 +1,6 @@
+{
+  "name": "KasKelas PRO",
+  "description": "Aplikasi Manajemen Keuangan & Buku Kas Kelas Terpadu dengan Fitur Pencatatan Kas Mingguan, Tagihan WhatsApp, dan Laporan Keuangan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
